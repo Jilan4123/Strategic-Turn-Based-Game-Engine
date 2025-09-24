@@ -23,6 +23,6 @@ Players can compete in real-time through a simple, responsive browser interface.
 - Fully responsive layout
 
 ## 📷 Screenshot
-![Game Screenshot](screenshot.png)
+![Game Screenshot](TikTakToe.png)
 
 ## 📂 Project Structure
