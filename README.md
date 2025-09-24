@@ -1,24 +1,28 @@
 # Strategic Turn-Based Game Engine (Tic-Tac-Toe)
 
-## 📌 Project Description
-This is a browser-based turn-based game engine implementing the classic Tic-Tac-Toe.  
-It allows two players to play interactively with a simple and user-friendly interface.
+## 📌 Project Overview
+This project is a **turn-based game engine** that demonstrates the classic **Tic-Tac-Toe** game.  
+It was built with a focus on clean design, scalability, and user interaction.  
+Players can compete in real-time through a simple, responsive browser interface.
 
-## 🚀 How to Run the Game
+## 🚀 How to Play
 1. Clone this repository or download the files.
 2. Open `index.html` in your browser.
-3. Start playing!
+3. Two players can take turns marking cells.
+4. The game detects win, loss, and draw conditions automatically.
 
 ## 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+- **HTML** – for structuring the game board
+- **CSS** – for styling and responsiveness
+- **JavaScript (ES6)** – for game logic and interactivity
 
 ## 🎮 Features
-- Simple and responsive design
-- Two-player mode
-- Detects win, loss, or draw conditions
+- Clean and intuitive user interface
+- Turn-based two-player gameplay
+- Automatic win/draw detection
+- Fully responsive layout
 
 ## 📷 Screenshot
-*(You can add a screenshot of your game here later by uploading an image and linking it.)*
-Added project details to README.md
+![Game Screenshot](screenshot.png)
+
+## 📂 Project Structure
